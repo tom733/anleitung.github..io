@@ -11,5 +11,59 @@
      width: 100%;  
      border-bottom: 2px solid #4C4C4C;
  }   
- <link href="index.css" media="screen" rel="stylesheet" type="text/css"/> 
+ … 
+ .image-wraper {  
+     width: 25%;  
+     float: left;
+}
+     
  
+ 
+.cover-image {   
+    max-width: 150px; 
+    width: 90%;  
+    padding: 5%;   
+    margin: auto; 
+    margin-top: 20px;   
+    display: block;
+ } 
+ 
+ 
+    .text-wraper {  
+        width: 74%;  
+        float: right;  
+        margin-top: 20px;  
+        padding-bottom: 20px; } 
+     
+     
+    .text-wraper ol {
+        margin-top: 20px;
+       -webkit-column-count: 2;
+       -moz-column-count: 2;
+        column-count: 2;
+ } 
+     
+     
+ .clear{  
+     clear: both; 
+} 
+     
+     
+     
+ .line.light {  
+     border-bottom: 1px solid #626262;
+ } 
+ input {  
+     border: 0px; 
+     background-color: transparent;  
+     font-size: 48pt;  
+     width: 600px;  
+     font-family: "Helvetica Neue"; 
+     color: #444;  
+     font-weight: 300;
+ } 
+ 
+ 
+ 
+     
+     
